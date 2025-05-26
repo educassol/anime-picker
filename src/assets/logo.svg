@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+     xmlns:xlink="http://www.w3.org/1999/xlink" 
+     width="100%" 
+     height="100%" 
+     viewBox="0 85 380 110"
+     preserveAspectRatio="xMidYMid meet"
+     style="display: block; margin: 0; padding: 0">
+
+  <g transform="translate(0,0) scale(1.05)">
+    <g fill="#333333" class="iconlettersvg-g iconlettersvg" transform="translate(38.80482482910156,95.42200088500977)">
+      <g fill="#333333">
+        <g class="tp-name" transform="translate(0,0)" fill="#333333">
+          <g transform="scale(1)" fill="#333333">
+            <g transform="translate(0, 0)" fill="#333333">
+              <g class="name-imagesvg" fill="#333333">
+                <!-- Primeiro Bloco -->
+                <g fill="#333333">
+                  <rect fill="#333333" fill-opacity="0" stroke-width="2px" x="0" y="0" width="55.86519378168625" height="45" class="image-rect"/>
+                  <svg x="0" y="0" width="55.86519378168625" height="45" filtersec="colorsb6728933080" class="image-svg-svg primary" style="overflow: visible;" fill="#333333">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.91 114.31" fill="#333333">
+                      <path fill="#00B8CE" opacity=".8" d="M129.5 64.78H29.75L12.42 93.63h124.31l-7.23-28.85z"/>
+                      <path fill="#8A6BBC" opacity=".8" d="M136.73 93.63l-7.23-28.85L113.27 0H76.56l8.48 34.18 7.59 30.6 7.15 28.85 4.86 19.62.27 1.06h37l-5.18-20.68z"/>
+                      <path fill="#FFA816" opacity=".8" d="M76.56 0h-7.91l-38.9 64.78-17.33 28.85L0 114.31h36.7l12.47-20.68 17.41-28.85 18.46-30.6L105.66 0h-29.1z"/>
+                    </svg>
+                  </svg>
+                </g>
+                <!-- Segundo Bloco -->
+                <g transform="translate(55.86, 0)" fill="#333333">
+                  <rect fill="#333333" fill-opacity="0" stroke-width="2px" x="0" y="0" width="56.33302329951998" height="45" class="image-rect"/>
+                  <svg x="0" y="0" width="56.33302329951998" height="45" filtersec="colorsb7878797099" class="image-svg-svg primary" style="overflow: visible;" fill="#333333">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 147.58 117.89" fill="#333333">
+                      <path fill="#9FD931" opacity=".8" d="M0 117.89h35.19L55.97 0H20.79L0 117.89z"/>
+                      <path fill="#FF4B4C" opacity=".8" d="M91.61 117.89h35.19L147.58 0H112.4L91.61 117.89z"/>
+                      <path fill="#8A6BBC" opacity=".8" d="M20.79 0l-1.81 10.23 73.6 107.66h34.22l1.8-10.23L55 0H20.79z"/>
+                    </svg>
+                  </svg>
+                </g>
+
+                <!-- Terceiro Bloco -->
+                <g transform="translate(112.19821708120622, 0)" fill="#333333">
+                  <rect fill="#333333" fill-opacity="0" stroke-width="2px" x="0" y="0" width="36.861905240188406" height="45" class="image-rect"/>
+                  <svg x="0" y="0" width="36.861905240188406" height="45" filtersec="colorsb5199240177" class="image-svg-svg primary" style="overflow: visible;" fill="#333333">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96.57 117.89" fill="#333333">
+                      <path fill="#9FD931" opacity=".8" d="M96.57 0H20.79l-5.25 29.75h75.79L96.57 0z"/>
+                      <path fill="#FF4B4C" opacity=".8" d="M81.03 88.14H5.25L0 117.89h75.78l5.25-29.75z"/>
+                      <path fill="#FFA816" opacity=".8" d="M77.19 0H42L21.21 117.89H56.4L77.19 0z"/>
+                    </svg>
+                  </svg>
+                </g>
+
+                <!-- Quarto Bloco -->
+                <g transform="translate(149.06012232139463, 0)" fill="#333333">
+                  <rect fill="#333333" fill-opacity="0" stroke-width="2px" x="0" y="0" width="64.8757345128597" height="45" class="image-rect"/>
+                  <svg x="0" y="0" width="64.8757345128597" height="45" filtersec="colorsb584549028" class="image-svg-svg primary" style="overflow: visible;" fill="#333333">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 169.96 117.89" fill="#333333">
+                      <path fill="#FF4B4C" opacity=".8" d="M0 117.89h35.19L55.97 0H20.79L0 117.89z"/>
+                      <g opacity=".8" fill="#333333">
+                        <path fill="#8A6BBC" d="M62.72 64.47l3.38 4.13h34.36l4.84-4.13-17.53-21.36-25.05 21.36z"/>
+                        <path d="M100.89 70.39H65l-4.85-5.93 28-23.89 19.6 23.89zm-33.73-3.58H100l2.74-2.34-15.41-18.83-22.09 18.83z" fill="#8A6BBC"/>
+                        <path fill="#FF4B4C" d="M62.72 64.47l3.38 4.13h34.36l4.84-4.13-17.53-21.36-25.05 21.36z"/>
+                        <path d="M100.89 70.39H65l-4.85-5.93 28-23.89 19.6 23.89zm-33.73-3.58H100l2.74-2.34-15.41-18.83-22.09 18.83z" fill="#FFA816"/>
+                      </g>
+                      <path fill="#8A6BBC" opacity=".8" d="M169.96 0h-35.18l-20.79 117.89h35.19L169.96 0z"/>
+                      <path fill="#FFA816" opacity=".8" d="M167.61 13.37L169.96 0h-34.14L60.19 64.46l4.85 5.93h35.85l66.72-57.02z"/>
+                      <path fill="#00B8CE" opacity=".8" d="M20.79 0l-2.36 13.37 46.61 57.02h35.85l6.93-5.93L54.92 0H20.79z"/>
+                    </svg>
+                  </svg>
+                </g>
+
+                <!-- Quinto Bloco -->
+                <g transform="translate(213.9358568342543, 0)" fill="#333333">
+                  <rect fill="#333333" fill-opacity="0" stroke-width="2px" x="0" y="0" width="48.45449265788071" height="45" class="image-rect"/>
+                  <svg x="0" y="0" width="48.45449265788071" height="45" filtersec="colorsb4176856624" class="image-svg-svg primary" style="overflow: visible;" fill="#333333">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126.94 117.89" fill="#333333">
+                      <path fill="#FF4B4C" opacity=".8" d="M126.94 0H20.79l-5.25 29.75h106.15L126.94 0z"/>
+                      <path fill="#8A6BBC" opacity=".8" d="M113.01 88.14H5.25L0 117.89h107.77l5.24-29.75z"/>
+                      <path fill="#FFA816" opacity=".8" d="M101.15 44.29H12.98l-4.6 26.1h88.16l4.61-26.1z"/>
+                      <path fill="#9FD931" opacity=".8" d="M55.97 0H20.79L0 117.89h35.19L55.97 0z"/>
+                    </svg>
+                  </svg>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+
+      <!-- Slogan (Texto) -->
+      <g data-gra="path-slogan" class="tp-slogan" fill="#333333" transform="translate(113.37517547607422,51)">
+        <g transform="scale(2)">
+          <path d="M1.08-7.87L1.08 0L2.08 0L2.08-3.12L3.49-3.12C3.92-3.12 4.32-3.17 4.67-3.27C5.03-3.37 5.34-3.52 5.59-3.72C5.85-3.92 6.05-4.17 6.19-4.48C6.33-4.78 6.40-5.14 6.40-5.56C6.40-5.99 6.33-6.35 6.19-6.65C6.05-6.94 5.85-7.18 5.60-7.36C5.35-7.54 5.04-7.67 4.68-7.75C4.32-7.83 3.92-7.87 3.49-7.87ZM3.37-3.94L2.08-3.94L2.08-7.07L3.37-7.07C4.05-7.07 4.56-6.96 4.90-6.74C5.23-6.52 5.40-6.12 5.40-5.56C5.40-5.00 5.23-4.59 4.90-4.33C4.57-4.07 4.06-3.94 3.37-3.94ZM7.99-7.87L7.99 0L8.99 0L8.99-7.87ZM10.69-3.94C10.69-3.30 10.78-2.72 10.95-2.21C11.12-1.71 11.36-1.28 11.67-0.93C11.98-0.58 12.34-0.32 12.76-0.13C13.18 0.05 13.64 0.14 14.14 0.14C14.64 0.14 15.09 0.04 15.48-0.16C15.87-0.36 16.22-0.64 16.54-1.00L15.97-1.61C15.72-1.33 15.45-1.11 15.16-0.96C14.88-0.81 14.54-0.73 14.16-0.73C13.78-0.73 13.45-0.81 13.15-0.96C12.85-1.11 12.59-1.33 12.38-1.61C12.18-1.89 12.01-2.23 11.90-2.62C11.78-3.02 11.72-3.46 11.72-3.96C11.72-4.45 11.78-4.89 11.90-5.28C12.02-5.67 12.19-6.01 12.41-6.28C12.62-6.56 12.88-6.77 13.19-6.92C13.49-7.07 13.83-7.14 14.21-7.14C14.54-7.14 14.84-7.07 15.09-6.94C15.34-6.81 15.57-6.63 15.78-6.41L16.34-7.04C16.11-7.30 15.82-7.53 15.46-7.72C15.10-7.92 14.68-8.02 14.20-8.02C13.69-8.02 13.23-7.92 12.80-7.73C12.37-7.55 12-7.28 11.69-6.92C11.38-6.57 11.13-6.14 10.96-5.64C10.78-5.14 10.69-4.57 10.69-3.94ZM18-7.87L18 0L19.00 0L19.00-2.50L20.35-4.09L22.70 0L23.82 0L20.98-4.87L23.44-7.87L22.31-7.87L19.03-3.92L19.00-3.92L19.00-7.87ZM24.95-7.87L24.95 0L29.60 0L29.60-0.85L25.94-0.85L25.94-3.71L28.93-3.71L28.93-4.56L25.94-4.56L25.94-7.03L29.48-7.03L29.48-7.87ZM32.27-4.14L32.27-7.07L33.59-7.07C34.20-7.07 34.68-6.96 35.00-6.76C35.33-6.55 35.50-6.18 35.50-5.66C35.50-5.15 35.33-4.77 35.00-4.52C34.68-4.27 34.20-4.14 33.59-4.14ZM35.59 0L36.72 0L34.73-3.43C35.26-3.57 35.69-3.82 36.01-4.19C36.33-4.56 36.49-5.05 36.49-5.66C36.49-6.07 36.42-6.42 36.29-6.70C36.15-6.98 35.96-7.20 35.72-7.38C35.47-7.56 35.18-7.68 34.84-7.76C34.50-7.83 34.13-7.87 33.73-7.87L31.27-7.87L31.27 0L32.27 0L32.27-3.32L33.70-3.32Z" transform="translate(35.08, 8.016)" fill="#ffffff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
