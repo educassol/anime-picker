@@ -44,7 +44,7 @@ const fetchRandomByGenres = async () => {
       const randomIndex = Math.floor(Math.random() * animeList.length);
       randomAnime.value = animeList[randomIndex];
     } else {
-      error.value = 'No animes with this genres!;
+      error.value = 'No animes with this genres!';
     }
   } catch (err) {
     error.value = 'Error searching genres';
