@@ -25,7 +25,7 @@ const fetchRandomAnime = async () => {
     const response = await jikanService.getRandomAnime();
     randomAnime.value = response.data.data;
   } catch (err) {
-    error.value = 'Erro ao buscar anime aleatório';
+    error.value = 'Error searching random anime';
   } finally {
     isLoading.value = false;
   }
@@ -44,13 +44,13 @@ const fetchRandomByGenres = async () => {
       const randomIndex = Math.floor(Math.random() * animeList.length);
       randomAnime.value = animeList[randomIndex];
     } else {
-      error.value = 'Nenhum anime encontrado para os gêneros selecionados';
+      error.value = 'No animes with this genres!;
     }
   } catch (err) {
-    error.value = 'Erro na busca por gêneros';
+    error.value = 'Error searching genres';
   } finally {
     isLoading.value = false;
-    showGenreFilters.value = false; // Fecha os filtros após a busca
+    showGenreFilters.value = false; 
   }
 };
 const truncateSynopsis = (text) => {
